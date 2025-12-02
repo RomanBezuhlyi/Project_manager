@@ -12,7 +12,7 @@ Project Manager — Test Task
    npm install
 
 3. Запуск мок-бекенду (json-server)
-   npx json-server --watch db.json --port 3001
+   npx json-server --watch db.json --port 3000
 
 4. Запуск фронтенду
    npm run dev
